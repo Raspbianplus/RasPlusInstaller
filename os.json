@@ -1,0 +1,8 @@
+{
+  "name": "OpenELEC RPI23 7x",
+  "release_date": "09-01-2017",
+  "kernel": "3.18",
+  "description": "Mediacenter OpenELEC RPi 2 et 3 v7.x",
+  "url": "http://openelec.tv/",
+  "supported_hex_revisions": "1040,1041"
+}
